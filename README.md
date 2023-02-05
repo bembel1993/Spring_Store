@@ -5,7 +5,7 @@ ____
 #### API - DispatcherServlet, Thymeleaf
 #### Server - Tomcat 9.0.62
 #### DB - MySQL
-#### Connect with DB - Spring JPA
+#### Connect with DB - Spring DATA JPA
 #### Pattern - MVC
 #### Visual - CSS, JS, Bootstrap
 #### Integrated Development Environment - Intellij IDEA Ultimate
