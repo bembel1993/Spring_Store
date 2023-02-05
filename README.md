@@ -1,4 +1,21 @@
 # Spring_Store
+____
+### Used technologies
+#### Framework - Spring Boot
+#### API - DispatcherServlet, Thymeleaf
+#### Server - Tomcat 9.0.62
+#### DB - MySQL
+#### Connect with DB - Spring JPA
+#### Pattern - MVC
+#### Visual - CSS, JS, Bootstrap
+#### Integrated Development Environment - Intellij IDEA Ultimate
+____
+### Using App 
+![Start page of Application](https://github.com/bembel1993/imgForDiplom/blob/main/sp1.png)
+![Start page of Application](https://github.com/bembel1993/imgForDiplom/blob/main/sp2.png)
+![Start page of Application](https://github.com/bembel1993/imgForDiplom/blob/main/sp3.png)
+![Start page of Application](https://github.com/bembel1993/imgForDiplom/blob/main/sp4.png)
+![Start page of Application](https://github.com/bembel1993/imgForDiplom/blob/main/sp5.png)
 # Getting Started
 
 ### Reference Documentation
